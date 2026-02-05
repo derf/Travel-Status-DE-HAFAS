@@ -1,3 +1,7 @@
+Travel::Status::DE::HAFAS 6.25 - Thu Feb 05 2026
+
+    * Update service definitions. Fixes BVG service.
+
 Travel::Status::DE::HAFAS 6.24 - Sat Dec 13 2025
 
     * station: Fix result->station->{eva} key
