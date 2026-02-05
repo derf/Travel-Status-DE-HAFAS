@@ -1255,7 +1255,7 @@ service.
 
 =head1 AUTHOR
 
-Copyright (C) 2015-2025 Birte Kristina Friesel E<lt>derf@finalrewind.orgE<gt>
+Copyright (C) 2015-2026 Birte Kristina Friesel E<lt>derf@finalrewind.orgE<gt>
 
 =head1 LICENSE
 
